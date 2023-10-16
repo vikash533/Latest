@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="groupSuite">
+    <test thread-count="2" name="groupTest">
+        <groups>
+            <run>
+                <include name="Regression test"/>
+                <exclude name="smoke test"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="AnnotationLearn.GroupTest"/>
+        </classes>
+    </test>
+</suite>
