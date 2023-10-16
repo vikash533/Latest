@@ -1,72 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-16T21:11:59 IST" name="Surefire suite" finished-at="2023-10-16T21:12:18 IST" duration-ms="18999">
+  <suite started-at="2023-10-16T22:29:28 IST" name="mysuit" finished-at="2023-10-16T22:29:43 IST" duration-ms="15126">
     <groups>
-      <group name="smoke test">
-        <method signature="GroupTest.test1()[pri:0, instance:AnnotationLearn.GroupTest@222114ba]" name="test1" class="AnnotationLearn.GroupTest"/>
-        <method signature="GroupTest.test2()[pri:0, instance:AnnotationLearn.GroupTest@222114ba]" name="test2" class="AnnotationLearn.GroupTest"/>
-        <method signature="GroupTest.test3()[pri:0, instance:AnnotationLearn.GroupTest@222114ba]" name="test3" class="AnnotationLearn.GroupTest"/>
-      </group> <!-- smoke test -->
-      <group name="Regression test">
-        <method signature="GroupTest.test1()[pri:0, instance:AnnotationLearn.GroupTest@222114ba]" name="test1" class="AnnotationLearn.GroupTest"/>
-        <method signature="GroupTest.test3()[pri:0, instance:AnnotationLearn.GroupTest@222114ba]" name="test3" class="AnnotationLearn.GroupTest"/>
-        <method signature="GroupTest.test4()[pri:0, instance:AnnotationLearn.GroupTest@222114ba]" name="test4" class="AnnotationLearn.GroupTest"/>
-        <method signature="GroupTest.test5()[pri:0, instance:AnnotationLearn.GroupTest@222114ba]" name="test5" class="AnnotationLearn.GroupTest"/>
-      </group> <!-- Regression test -->
     </groups>
-    <test started-at="2023-10-16T21:11:59 IST" name="Surefire test" finished-at="2023-10-16T21:12:18 IST" duration-ms="18999">
-      <class name="selenium.LoginTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:selenium.LoginTest@6d2a209c]" started-at="2023-10-16T21:11:59 IST" name="setup" finished-at="2023-10-16T21:12:05 IST" duration-ms="5137" status="PASS">
+    <test started-at="2023-10-16T22:29:28 IST" name="serialEx" finished-at="2023-10-16T22:29:40 IST" duration-ms="11783">
+      <class name="LearnParralel_seriesTesting.SerialExecution">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:LearnParralel_seriesTesting.SerialExecution@6973b51b]" started-at="2023-10-16T22:29:28 IST" name="setup" finished-at="2023-10-16T22:29:39 IST" duration-ms="10438" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testScript()[pri:0, instance:selenium.LoginTest@6d2a209c]" started-at="2023-10-16T21:12:18 IST" name="testScript" finished-at="2023-10-16T21:12:18 IST" duration-ms="360" status="PASS">
+        <test-method signature="testLogo()[pri:1, instance:LearnParralel_seriesTesting.SerialExecution@6973b51b]" started-at="2023-10-16T22:29:39 IST" name="testLogo" finished-at="2023-10-16T22:29:40 IST" duration-ms="1142" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testScript -->
-      </class> <!-- selenium.LoginTest -->
-      <class name="firstDay.SecondTest">
-        <test-method is-config="true" signature="openApp()[pri:0, instance:firstDay.SecondTest@5e316c74]" started-at="2023-10-16T21:12:05 IST" name="openApp" finished-at="2023-10-16T21:12:09 IST" duration-ms="4058" status="PASS">
+        </test-method> <!-- testLogo -->
+        <test-method signature="testHomepageTitle()[pri:2, instance:LearnParralel_seriesTesting.SerialExecution@6973b51b]" started-at="2023-10-16T22:29:40 IST" name="testHomepageTitle" finished-at="2023-10-16T22:29:40 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- openApp -->
-        <test-method signature="loginApp()[pri:0, instance:firstDay.SecondTest@5e316c74]" started-at="2023-10-16T21:12:09 IST" name="loginApp" finished-at="2023-10-16T21:12:09 IST" duration-ms="648" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginApp -->
-        <test-method is-config="true" signature="logoutApp()[pri:0, instance:firstDay.SecondTest@5e316c74]" started-at="2023-10-16T21:12:09 IST" name="logoutApp" finished-at="2023-10-16T21:12:13 IST" duration-ms="3625" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logoutApp -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:firstDay.SecondTest@5e316c74]" started-at="2023-10-16T21:12:13 IST" name="tearDown" finished-at="2023-10-16T21:12:18 IST" duration-ms="5107" status="PASS">
+        </test-method> <!-- testHomepageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LearnParralel_seriesTesting.SerialExecution@6973b51b]" started-at="2023-10-16T22:29:40 IST" name="tearDown" finished-at="2023-10-16T22:29:40 IST" duration-ms="144" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- firstDay.SecondTest -->
-      <class name="AnnotationLearn.GroupTest">
-        <test-method signature="test1()[pri:0, instance:AnnotationLearn.GroupTest@222114ba]" started-at="2023-10-16T21:12:05 IST" name="test1" finished-at="2023-10-16T21:12:05 IST" duration-ms="2" status="PASS">
+      </class> <!-- LearnParralel_seriesTesting.SerialExecution -->
+    </test> <!-- serialEx -->
+    <test started-at="2023-10-16T22:29:28 IST" name="serialExecution02" finished-at="2023-10-16T22:29:42 IST" duration-ms="13651">
+      <class name="LearnParralel_seriesTesting.SerialExecution">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:LearnParralel_seriesTesting.SerialExecution@4cc451f2]" started-at="2023-10-16T22:29:28 IST" name="setup" finished-at="2023-10-16T22:29:40 IST" duration-ms="12042" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method signature="test2()[pri:0, instance:AnnotationLearn.GroupTest@222114ba]" started-at="2023-10-16T21:12:05 IST" name="test2" finished-at="2023-10-16T21:12:05 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- setup -->
+        <test-method signature="testLogo()[pri:1, instance:LearnParralel_seriesTesting.SerialExecution@4cc451f2]" started-at="2023-10-16T22:29:40 IST" name="testLogo" finished-at="2023-10-16T22:29:42 IST" duration-ms="1403" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test2 -->
-        <test-method signature="test3()[pri:0, instance:AnnotationLearn.GroupTest@222114ba]" started-at="2023-10-16T21:12:05 IST" name="test3" finished-at="2023-10-16T21:12:05 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- testLogo -->
+        <test-method signature="testHomepageTitle()[pri:2, instance:LearnParralel_seriesTesting.SerialExecution@4cc451f2]" started-at="2023-10-16T22:29:42 IST" name="testHomepageTitle" finished-at="2023-10-16T22:29:42 IST" duration-ms="16" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test3 -->
-        <test-method signature="test4()[pri:0, instance:AnnotationLearn.GroupTest@222114ba]" started-at="2023-10-16T21:12:05 IST" name="test4" finished-at="2023-10-16T21:12:05 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- testHomepageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LearnParralel_seriesTesting.SerialExecution@4cc451f2]" started-at="2023-10-16T22:29:42 IST" name="tearDown" finished-at="2023-10-16T22:29:42 IST" duration-ms="161" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test4 -->
-        <test-method signature="test5()[pri:0, instance:AnnotationLearn.GroupTest@222114ba]" started-at="2023-10-16T21:12:05 IST" name="test5" finished-at="2023-10-16T21:12:05 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- tearDown -->
+      </class> <!-- LearnParralel_seriesTesting.SerialExecution -->
+    </test> <!-- serialExecution02 -->
+    <test started-at="2023-10-16T22:29:28 IST" name="serialExecution01" finished-at="2023-10-16T22:29:43 IST" duration-ms="15126">
+      <class name="LearnParralel_seriesTesting.SerialExecution">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:LearnParralel_seriesTesting.SerialExecution@7b9a4292]" started-at="2023-10-16T22:29:28 IST" name="setup" finished-at="2023-10-16T22:29:42 IST" duration-ms="13292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test5 -->
-      </class> <!-- AnnotationLearn.GroupTest -->
-    </test> <!-- Surefire test -->
-  </suite> <!-- Surefire suite -->
+        </test-method> <!-- setup -->
+        <test-method signature="testLogo()[pri:1, instance:LearnParralel_seriesTesting.SerialExecution@7b9a4292]" started-at="2023-10-16T22:29:42 IST" name="testLogo" finished-at="2023-10-16T22:29:43 IST" duration-ms="1050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method signature="testHomepageTitle()[pri:2, instance:LearnParralel_seriesTesting.SerialExecution@7b9a4292]" started-at="2023-10-16T22:29:43 IST" name="testHomepageTitle" finished-at="2023-10-16T22:29:43 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomepageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LearnParralel_seriesTesting.SerialExecution@7b9a4292]" started-at="2023-10-16T22:29:43 IST" name="tearDown" finished-at="2023-10-16T22:29:43 IST" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LearnParralel_seriesTesting.SerialExecution -->
+    </test> <!-- serialExecution01 -->
+  </suite> <!-- mysuit -->
 </testng-results>
