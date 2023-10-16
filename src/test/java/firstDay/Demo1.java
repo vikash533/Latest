@@ -18,4 +18,9 @@ public class Demo1 {
     void test3() {
         Reporter.log("this is test 3", true);
     }
+
+    @Test
+    void test4() {
+        System.out.println("this is test 4");
+    }
 }
