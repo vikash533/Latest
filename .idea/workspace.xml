@@ -5,18 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2613c9fc-7dd9-442a-955e-ee8a0e7aa3c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Inheritance/Driv01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Inheritance/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LearnParralel_seriesTesting/AllLink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LearnParralel_seriesTesting/AmazonProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LearnParralel_seriesTesting/Autosuggestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LearnParralel_seriesTesting/CheckWebElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LearnParralel_seriesTesting/PageScroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LearnParralel_seriesTesting/SelectDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LearnParralel_seriesTesting/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/AbsoluteValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/ContinueSatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/FactorialNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/Firstmultipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/NumberOfDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/ProfitLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/ReverseOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/StreamOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/SumOfDigtis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/SumOfSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/checkWhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LearnParralel_seriesTesting/AmazonProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearnParralel_seriesTesting/AmazonProject.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,5 +106,21 @@
       <updated>1697474596728</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ArithmeticOperator/NumberOfDigit.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ArithmeticOperator/SumOfDigtis.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
