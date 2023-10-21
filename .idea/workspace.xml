@@ -5,27 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2613c9fc-7dd9-442a-955e-ee8a0e7aa3c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/AbsoluteValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/ContinueSatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/FactorialNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/Firstmultipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/NumberOfDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/ProfitLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/ReverseOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/StreamOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/SumOfDigtis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/SumOfSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/checkWhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-LearnParralel_seriesTesting.SerialExecution.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-LearnParralel_seriesTesting.SerialExecution.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/mysuit/serialEx.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/mysuit/serialEx.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/mysuit/serialEx.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/mysuit/serialEx.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/mysuit/serialExecution01.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/mysuit/serialExecution01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/mysuit/serialExecution01.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/mysuit/serialExecution01.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/mysuit/serialExecution02.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/mysuit/serialExecution02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/mysuit/serialExecution02.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/mysuit/serialExecution02.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/mysuit/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/mysuit/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/mysuit/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/mysuit/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LearnParralel_seriesTesting/AmazonProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LearnParralel_seriesTesting/AmazonProject.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,14 +52,49 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;branch003&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Interview001&quot;
+    &quot;last_opened_file_path&quot;: &quot;E:/AutomationInterview&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Interview001" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Driv01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.Driv01" />
+      <module name="Interview001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.Driver" />
+      <module name="Interview001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Driv01" />
+        <item itemvalue="Application.Driver" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,5 +106,21 @@
       <updated>1697474596728</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ArithmeticOperator/NumberOfDigit.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ArithmeticOperator/SumOfDigtis.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
