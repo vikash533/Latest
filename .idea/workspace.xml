@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2613c9fc-7dd9-442a-955e-ee8a0e7aa3c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/Loop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/Loop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/Pyramid1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/TriangularPattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/TriangularPattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/Plaindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/Pyramid3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/Pyramid4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/Pyramid5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/Pyramid6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/Pyramid7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/SwapTwoNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/Wordcounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/builder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/RaisePower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArithmeticOperator/RaisePower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NestedLoop/Pyramid2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NestedLoop/Pyramid2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +119,16 @@
           <url>file://$PROJECT_DIR$/src/test/java/ArithmeticOperator/SumOfDigtis.java</url>
           <line>7</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/NestedLoop/ReverseString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/NestedLoop/Plaindrome.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
