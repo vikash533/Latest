@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2613c9fc-7dd9-442a-955e-ee8a0e7aa3c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringPacket/EvenLengthWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringPacket/InsertedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringPacket/Toggle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StringPacket/UpperCaseToLowerandViceVersa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayQustion/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringPacket/AnagramOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringPacket/InsetedString1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,6 +121,16 @@
           <url>file://$PROJECT_DIR$/src/test/java/NestedLoop/Plaindrome.java</url>
           <line>10</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/StringPacket/InsetedString1.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/StringPacket/AnagramOfString.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
