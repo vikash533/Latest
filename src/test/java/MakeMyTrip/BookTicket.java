@@ -27,7 +27,6 @@ public class BookTicket {
     }
     @Test
     void testScript(){
-
         try {
             driver.findElement(By.xpath("//span[@class='commonModal__close']")).click();
         }catch (Exception e){
@@ -35,10 +34,6 @@ public class BookTicket {
         }
         driver.findElement(By.xpath("//label[@for='fromCity']")).click();
         List<WebElement> drpDown = driver.findElements(By.xpath("//ul[@role='listbox']//li"));
-//        for (WebElement drp:drpDown
-//             ) {
-//            System.out.println(drp.getText());
-//        }
         drpDown.get(2).click();
         driver.findElement(By.xpath("//label[@for='toCity']")).click();
         wait.until(ExpectedConditions.visibilityOfAllElements(driver.findElements(By.xpath("//div[@id='react-autowhatever-1']//li"))));

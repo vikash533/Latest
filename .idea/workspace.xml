@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2613c9fc-7dd9-442a-955e-ee8a0e7aa3c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/MakeMyTrip/BookTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MakeMyTrip/DatePickers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MakeMyTrip/SwitchFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MakeMyTrip/SwitchFrame001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/AirIndeaExpress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ArrayQustion/LastOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LastOccurance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ArrayQustion/LastOccurance.class" beforeDir="false" />
-    </list>
+    <list default="true" id="2613c9fc-7dd9-442a-955e-ee8a0e7aa3c8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

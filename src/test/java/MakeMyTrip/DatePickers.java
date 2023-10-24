@@ -33,9 +33,6 @@ public class DatePickers {
         driver.switchTo().frame(frame);
         wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("datepicker"))));
         driver.findElement(By.id("datepicker")).click();
-
-       // WebElement leftClick = driver.findElement(By.xpath("(//a[@data-event='click'])[1]"));
-
         wait.until(ExpectedConditions.visibilityOfAllElements(driver.findElement(By.xpath("//div[@class='ui-datepicker-title']"))));
         while (true){
             String calendarMonth = driver.findElement(By.xpath("//div[@class='ui-datepicker-title']")).getText();
